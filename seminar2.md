@@ -6,6 +6,9 @@
 
 * *git checkout branch_name* - переход на ветку
 
+* *git branch* - команда, отображающая перечень существующих веток
+
+
 
 ## Branch merging
 
